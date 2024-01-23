@@ -1,0 +1,1 @@
+# Print the following pattern
